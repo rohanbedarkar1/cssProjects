@@ -6,7 +6,19 @@ h1{
     color: white;
     font-family: sans-serif;
 }
-h2{
+/* h2{
     color: whitesmoke;
     font-family: 'Mukta', sans-serif;
+} */
+
+.section-title{
+    color: #2ddf5c;
+}
+
+h1{
+    font-family: sans-serif;
+}
+
+body{
+    font-family: sans-serif;
 }
